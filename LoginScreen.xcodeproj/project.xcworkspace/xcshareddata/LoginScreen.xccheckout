@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>75E16B8F-575F-4146-B61D-6A9353FF97D8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LoginScreen</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>53A95144-50A2-4565-9ECA-B5CC749BE5CE</key>
+		<string>https://github.com/kanaanraza/storetown-Product-Page.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LoginScreen.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>53A95144-50A2-4565-9ECA-B5CC749BE5CE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kanaanraza/storetown-Product-Page.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>53A95144-50A2-4565-9ECA-B5CC749BE5CE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>53A95144-50A2-4565-9ECA-B5CC749BE5CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Storetown App </string>
+		</dict>
+	</array>
+</dict>
+</plist>
